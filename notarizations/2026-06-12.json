@@ -1,0 +1,8 @@
+{
+  "period_date": "2026-06-12",
+  "merkle_root": "fe115571131570f852b927c60cbc7befb6cdc804e07aa22784c8d95b233b34a8",
+  "events_count": 53,
+  "leaf_hashes_sha256": "d12d68ff5478844bd2edba2d142883f2a1be94259c80f99cb0970b40e8395345",
+  "committed_at": "2026-06-13T04:00:12.658Z",
+  "note": "Teia GEO IGO — Audit Chain Public Notarization. Verify by reconstructing the merkle root from audit_events of this date and matching against merkle_root above."
+}
